@@ -14,14 +14,26 @@ This project is a fully responsive and modern restaurant website developed using
 - **Gallery Section**: A curated selection of high-quality images showcasing the restaurant’s dishes, interior, and atmosphere.
 - **Newsletter**: A subscription form for visitors to stay updated on the latest news and offers.
 
-## Installation
+### Installation
 To run this project locally, follow these steps:
 
-```bash
-git clone https://github.com/Bhumika60/Restaurant-react-website.git
-cd restaurant-website
-npm install
-npm start
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Bhumika60/Restaurant-react-website.git
+   
+2. Navigate to the project directory:
+
+   ```bash
+   cd Restaurant-react-website
+   
+3. Install the dependencies:
+   ```bash
+   npm install
+   
+4. Start the development server:
+   ```bash
+   npm start
 
 
 
